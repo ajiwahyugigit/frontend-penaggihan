@@ -1,0 +1,18 @@
+/* kelola pengguna */
+table {
+    font-size: small;
+}
+#tr {
+    background-color: rgb(0, 32, 102);
+    color: rgb(255, 255, 255);
+}
+table td a {
+    padding: 5px;
+    margin : 2px;
+    border-radius: 5px;
+}
+/* akhir kelola pengguna*/
+
+i fa-edit {
+    color: white;
+}
